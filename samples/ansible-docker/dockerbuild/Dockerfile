@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:rolling
 
 MAINTAINER lgordon *at* lgsec *dot* biz
 
