@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:groovy-20210416
 
 MAINTAINER lgordon *at* lgsec *dot* biz
 
