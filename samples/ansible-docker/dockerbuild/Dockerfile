@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:20.10
 
 MAINTAINER lgordon *at* lgsec *dot* biz
 
