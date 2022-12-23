@@ -20,3 +20,4 @@ yapsy==1.11.223
 # matplotlib, scikit-image not really needed
 # matplotlib
 # scikit-image
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
